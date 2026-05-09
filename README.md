@@ -1,6 +1,6 @@
 # Agenda de Aulas e Eventos
 
-Este repositório é um fork do repositório original, feito ad hoc para a entrega parcial do projeto, contendo até a última atualização feita até o dia 09/05/2026. O repositório original, que será atualizdo até o final da disciplina, está disponível em: https://github.com/Pedrh316/Agenda-de-aulas-e-eventos.
+Este repositório é um fork do repositório original, feito _ad hoc_ para a entrega parcial do projeto, contendo até a última atualização feita até o dia 09/05/2026. O repositório original, que será atualizdo até o final da disciplina, está disponível em: https://github.com/Pedrh316/Agenda-de-aulas-e-eventos.
 
 O software desenvolvido tem por objetivo auxiliar o projeto de extensão "Meninas digitais" (UTFPR-CP) a organizar aulas, palestras, e quaisquer tipos de eventos, servindo também como lembrete
 
